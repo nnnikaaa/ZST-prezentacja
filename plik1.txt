@@ -2,4 +2,6 @@ jakis plik
 hej
 hejhej
 raz dwa trzy
-master version
+master version and
+testing version
+
